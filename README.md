@@ -36,6 +36,7 @@ Excel (pivot table, Charts, Dashboard).
 <img width="493" alt="TOTALOPERATING PROFIT BY QUATER" src="https://github.com/user-attachments/assets/6551da45-6464-4ac2-b73b-ef25332cb149" />
  ### Conclusion and recommendation
 Recommendations Based on Total Sales Analysis
+
 1. Focus on Adidas Samba & Gazelle:
 Adidas Samba had the highest sales at $604,769.89, followed by Adidas Gazelle ($592,874.39).
 Increase marketing and promotions for these products to capitalize on their popularity.
